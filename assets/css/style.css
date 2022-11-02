@@ -1,0 +1,16 @@
+.rosso{
+  color: red;
+}
+
+.blu{
+  color: blue;
+}
+
+.verde{
+  color: green;
+}
+
+img{
+  width: 300px;
+  aspect-ratio: 1/1;
+}
